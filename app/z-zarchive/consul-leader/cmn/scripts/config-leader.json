@@ -1,0 +1,8 @@
+{
+    "bootstrap": true,
+    "server": true,
+    "datacenter": "cmn",
+    "data_dir": "/var/consul",
+    "log_level": "INFO",
+    "enable_syslog": true
+}
